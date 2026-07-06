@@ -18,6 +18,7 @@ Our stack is MIT-licensed and developed in the open.
 | Project | What it is |
 |---|---|
 | **[nusy-reasoners](https://github.com/Congruentsys/nusy-reasoners)** | Proof-carrying reasoning engines over Apache Arrow — derivations you can audit, abstention you can trust. The symbolic core. |
+| **[nusy-graph](https://github.com/Congruentsys/nusy-graph)** | Document → Y-layer knowledge graph, as a product — the `nusy-grapher` library, CLI, and MCP server. Turns prose into the auditable graph the reasoners run on. |
 | **[nusy-kanban](https://github.com/hankh95/nusy-kanban)** | Arrow-native, distributed kanban for multi-agent teams — with a built-in Hypothesis-Driven-Development research workflow. |
 | **[noesis-ship](https://github.com/hankh95/noesis-ship)** | Pluggable multi-agent communication platform on NATS (EventBus, KV, object store; WebSocket / MCP / HTTP adapters). |
 | **[acf-framework](https://github.com/hankh95/acf-framework)** | A graph-based framework for measuring AI capability against human professional standards. |
